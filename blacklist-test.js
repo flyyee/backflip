@@ -1,0 +1,8 @@
+const bl = require("./blacklist")
+let blacklist = new bl.blacklist()
+blacklist.push1(5)
+blacklist.push2(5)
+// blacklist.push3(5)
+blacklist.update([5, 3])
+// blacklist.update(5)
+console.log(blacklist.verify(5))

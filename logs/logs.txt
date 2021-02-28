@@ -1,0 +1,2891 @@
+
+NEW ENTRY
+28/01/2021 14:06:39
+Hello
+indic2
+{
+  ref: [ currency { value: 9, asset_id: '9729359885' } ],
+  rec: [ currency { value: 3, asset_id: '9764012533' } ],
+  scrap: [ currency { value: 1, asset_id: '9767231868' } ],
+  keys: [],
+  custom: []
+}
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9680019215',
+      class_id: '8919157',
+      instance_id: '4115244570',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 0
+    }
+  ]
+}
+https://steamcommunity.com/tradeoffer/new/?partner=299468148&token=64DY8yPZ
+4418919733
+Accepted!
+yooo
+false
+{
+  ref: [ currency { value: 9, asset_id: '9729359885' } ],
+  rec: [ currency { value: 3, asset_id: '9764012533' } ],
+  scrap: [ currency { value: 1, asset_id: '9767231868' } ],
+  keys: [],
+  custom: []
+}
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9680019215',
+      class_id: '8919157',
+      instance_id: '4115244570',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 0
+    }
+  ]
+}
+https://steamcommunity.com/tradeoffer/new/?partner=299468148&token=64DY8yPZ
+ARGH: TypeError: Cannot read property 'Symbol(Symbol.toStringTag)' of undefined
+Yay!
+indic3
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769287961' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347391' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347420' },
+    currency { value: 9, asset_id: '9769347428' },
+    currency { value: 9, asset_id: '9769347448' },
+    currency { value: 9, asset_id: '9769347485' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347555' },
+    currency { value: 9, asset_id: '9769347566' },
+    currency { value: 9, asset_id: '9769347581' },
+    currency { value: 9, asset_id: '9769347590' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769297476' },
+    currency { value: 9, asset_id: '9769287973' },
+    currency { value: 9, asset_id: '9769288002' },
+    currency { value: 9, asset_id: '9769288012' },
+    currency { value: 9, asset_id: '9769288029' },
+    ... 484 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770034009' },
+    currency { value: 3, asset_id: '9769970729' },
+    currency { value: 3, asset_id: '9769961773' },
+    currency { value: 3, asset_id: '9770060929' },
+    currency { value: 3, asset_id: '9770060928' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9770048227' },
+    currency { value: 1, asset_id: '9770048226' },
+    currency { value: 1, asset_id: '9770048225' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769970746' },
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9770050582' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769287961' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347391' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347420' },
+    currency { value: 9, asset_id: '9769347428' },
+    currency { value: 9, asset_id: '9769347448' },
+    currency { value: 9, asset_id: '9769347485' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347555' },
+    currency { value: 9, asset_id: '9769347566' },
+    currency { value: 9, asset_id: '9769347581' },
+    currency { value: 9, asset_id: '9769347590' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769297476' },
+    currency { value: 9, asset_id: '9769287973' },
+    currency { value: 9, asset_id: '9769288002' },
+    currency { value: 9, asset_id: '9769288012' },
+    currency { value: 9, asset_id: '9769288029' },
+    ... 483 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770034009' },
+    currency { value: 3, asset_id: '9769970729' },
+    currency { value: 3, asset_id: '9769961773' },
+    currency { value: 3, asset_id: '9770060929' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9770048227' },
+    currency { value: 1, asset_id: '9770048226' },
+    currency { value: 1, asset_id: '9770048225' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769970746' },
+    currency { value: 1, asset_id: '9769961803' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    1 => {
+      ref: [Array],
+      rec: [Array],
+      scrap: [Array],
+      keys: [],
+      custom: []
+    }
+  }
+}
+indic4
+Bank {
+  keys: [],
+  ref: [ currency { value: 9, asset_id: '9729359885' } ],
+  rec: [
+    currency { value: 3, asset_id: '9764006999' },
+    currency { value: 3, asset_id: '9767231830' },
+    currency { value: 3, asset_id: '9764012533' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9767231859' },
+    currency { value: 1, asset_id: '9764024774' },
+    currency { value: 1, asset_id: '9767231991' },
+    currency { value: 1, asset_id: '9767231881' },
+    currency { value: 1, asset_id: '9767231868' }
+  ],
+  custom: Map { 1 => [ [Object], [Object], [Object] ] },
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [ currency { value: 9, asset_id: '9729359885' } ],
+  rec: [
+    currency { value: 3, asset_id: '9764006999' },
+    currency { value: 3, asset_id: '9767231830' },
+    currency { value: 3, asset_id: '9764012533' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9767231859' },
+    currency { value: 1, asset_id: '9764024774' },
+    currency { value: 1, asset_id: '9767231991' },
+    currency { value: 1, asset_id: '9767231881' },
+    currency { value: 1, asset_id: '9767231868' }
+  ],
+  custom: Map { 1 => [ [Object], [Object] ] },
+  trades: Map {},
+  trades_setup: Map {
+    1 => { ref: [], rec: [], scrap: [], keys: [], custom: [Array] }
+  }
+}
+indic5
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9770127471',
+      class_id: '8919157',
+      instance_id: '0',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 1
+    }
+  ]
+}
+{
+  ref: [ currency { value: 9, asset_id: '9769347379' } ],
+  rec: [ currency { value: 3, asset_id: '9770060928' } ],
+  scrap: [ currency { value: 1, asset_id: '9770050582' } ],
+  keys: [],
+  custom: []
+}
+https://steamcommunity.com/tradeoffer/new/?partner=412692011&token=uf3bUP3P
+
+NEW ENTRY
+28/01/2021 14:13:9
+Hello
+
+NEW ENTRY
+28/01/2021 14:15:55
+Hello
+
+NEW ENTRY
+28/01/2021 14:20:9
+Hello
+
+NEW ENTRY
+28/01/2021 14:23:4
+Hello
+indic2
+{
+  ref: [ currency { value: 9, asset_id: '9770193484' } ],
+  rec: [ currency { value: 3, asset_id: '9770193531' } ],
+  scrap: [ currency { value: 1, asset_id: '9767231859' } ],
+  keys: [],
+  custom: []
+}
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9761986331',
+      class_id: '8919157',
+      instance_id: '0',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 0
+    }
+  ]
+}
+https://steamcommunity.com/tradeoffer/new/?partner=241596785&token=ho_XrurA
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9770193512' },
+    currency { value: 9, asset_id: '9770193518' },
+    currency { value: 9, asset_id: '9770193500' }
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9764006999' },
+    currency { value: 3, asset_id: '9767231830' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9764024774' },
+    currency { value: 1, asset_id: '9767231881' },
+    currency { value: 1, asset_id: '9767231991' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    0 => {
+      ref: [Array],
+      rec: [Array],
+      scrap: [Array],
+      keys: [],
+      custom: []
+    }
+  }
+}
+4418934477
+Accepted!
+yooo
+false
+{
+  ref: [ currency { value: 9, asset_id: '9770193484' } ],
+  rec: [ currency { value: 3, asset_id: '9770193531' } ],
+  scrap: [ currency { value: 1, asset_id: '9767231859' } ],
+  keys: [],
+  custom: []
+}
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9761986331',
+      class_id: '8919157',
+      instance_id: '0',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 0
+    }
+  ]
+}
+https://steamcommunity.com/tradeoffer/new/?partner=241596785&token=ho_XrurA
+ARGH: TypeError: Cannot read property 'Symbol(Symbol.toStringTag)' of undefined
+Yay!
+indic3
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9770190977' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347420' },
+    currency { value: 9, asset_id: '9769347428' },
+    currency { value: 9, asset_id: '9769347448' },
+    currency { value: 9, asset_id: '9769347485' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769297520' },
+    currency { value: 9, asset_id: '9769288029' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    currency { value: 9, asset_id: '9769288106' },
+    currency { value: 9, asset_id: '9769288117' },
+    currency { value: 9, asset_id: '9769288130' },
+    currency { value: 9, asset_id: '9769288144' },
+    ... 475 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770190989' },
+    currency { value: 3, asset_id: '9770034009' },
+    currency { value: 3, asset_id: '9769961773' },
+    currency { value: 3, asset_id: '9770183694' },
+    currency { value: 3, asset_id: '9770183693' },
+    currency { value: 3, asset_id: '9770183692' },
+    currency { value: 3, asset_id: '9770066057' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9770190978' },
+    currency { value: 1, asset_id: '9770048227' },
+    currency { value: 1, asset_id: '9770048226' },
+    currency { value: 1, asset_id: '9770048225' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9769970746' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9770190977' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347420' },
+    currency { value: 9, asset_id: '9769347428' },
+    currency { value: 9, asset_id: '9769347448' },
+    currency { value: 9, asset_id: '9769347485' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769297520' },
+    currency { value: 9, asset_id: '9769288029' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    currency { value: 9, asset_id: '9769288106' },
+    currency { value: 9, asset_id: '9769288117' },
+    currency { value: 9, asset_id: '9769288130' },
+    currency { value: 9, asset_id: '9769288144' },
+    ... 474 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770190989' },
+    currency { value: 3, asset_id: '9770034009' },
+    currency { value: 3, asset_id: '9769961773' },
+    currency { value: 3, asset_id: '9770183694' },
+    currency { value: 3, asset_id: '9770183693' },
+    currency { value: 3, asset_id: '9770183692' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9770190978' },
+    currency { value: 1, asset_id: '9770048227' },
+    currency { value: 1, asset_id: '9770048226' },
+    currency { value: 1, asset_id: '9770048225' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769961803' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    1 => {
+      ref: [Array],
+      rec: [Array],
+      scrap: [Array],
+      keys: [],
+      custom: []
+    }
+  }
+}
+indic4
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9770193512' },
+    currency { value: 9, asset_id: '9770193518' },
+    currency { value: 9, asset_id: '9770193500' },
+    currency { value: 9, asset_id: '9770193484' }
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9764006999' },
+    currency { value: 3, asset_id: '9767231830' },
+    currency { value: 3, asset_id: '9770193531' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9764024774' },
+    currency { value: 1, asset_id: '9767231881' },
+    currency { value: 1, asset_id: '9767231991' },
+    currency { value: 1, asset_id: '9767231859' }
+  ],
+  custom: Map { 1 => [ [Object] ] },
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9770193512' },
+    currency { value: 9, asset_id: '9770193518' },
+    currency { value: 9, asset_id: '9770193500' },
+    currency { value: 9, asset_id: '9770193484' }
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9764006999' },
+    currency { value: 3, asset_id: '9767231830' },
+    currency { value: 3, asset_id: '9770193531' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9764024774' },
+    currency { value: 1, asset_id: '9767231881' },
+    currency { value: 1, asset_id: '9767231991' },
+    currency { value: 1, asset_id: '9767231859' }
+  ],
+  custom: Map { 1 => [] },
+  trades: Map {},
+  trades_setup: Map {
+    1 => { ref: [], rec: [], scrap: [], keys: [], custom: [Array] }
+  }
+}
+indic5
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9770195438',
+      class_id: '8919157',
+      instance_id: '0',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 1
+    }
+  ]
+}
+{
+  ref: [ currency { value: 9, asset_id: '9769347379' } ],
+  rec: [ currency { value: 3, asset_id: '9770066057' } ],
+  scrap: [ currency { value: 1, asset_id: '9769970746' } ],
+  keys: [],
+  custom: []
+}
+https://steamcommunity.com/tradeoffer/new/?partner=412692011&token=uf3bUP3P
+
+NEW ENTRY
+28/01/2021 14:26:3
+Hello
+indic2
+{
+  ref: [ currency { value: 9, asset_id: '9770193512' } ],
+  rec: [ currency { value: 3, asset_id: '9767231830' } ],
+  scrap: [ currency { value: 1, asset_id: '9767231881' } ],
+  keys: [],
+  custom: []
+}
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9767972705',
+      class_id: '8919157',
+      instance_id: '3879535297',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 0
+    }
+  ]
+}
+https://steamcommunity.com/tradeoffer/new/?partner=241596785&token=ho_XrurA
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9770193500' },
+    currency { value: 9, asset_id: '9770193518' }
+  ],
+  rec: [ currency { value: 3, asset_id: '9764006999' } ],
+  scrap: [
+    currency { value: 1, asset_id: '9764024774' },
+    currency { value: 1, asset_id: '9767231991' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    0 => {
+      ref: [Array],
+      rec: [Array],
+      scrap: [Array],
+      keys: [],
+      custom: []
+    }
+  }
+}
+4418937120
+Accepted!
+yooo
+{
+  my_items: {
+    ref: [ [currency] ],
+    rec: [ [currency] ],
+    scrap: [ [currency] ],
+    keys: [],
+    custom: []
+  },
+  their_items: { ref: [], rec: [], scrap: [], keys: [], custom: [ [Object] ] },
+  their_tradeURL: 'https://steamcommunity.com/tradeoffer/new/?partner=241596785&token=ho_XrurA'
+}
+{
+  ref: [ currency { value: 9, asset_id: '9770193512' } ],
+  rec: [ currency { value: 3, asset_id: '9767231830' } ],
+  scrap: [ currency { value: 1, asset_id: '9767231881' } ],
+  keys: [],
+  custom: []
+}
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9767972705',
+      class_id: '8919157',
+      instance_id: '3879535297',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 0
+    }
+  ]
+}
+https://steamcommunity.com/tradeoffer/new/?partner=241596785&token=ho_XrurA
+ARGH: TypeError: Cannot read property 'Symbol(Symbol.toStringTag)' of undefined
+Yay!
+indic3
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769288029' },
+    currency { value: 9, asset_id: '9769347355' },
+    currency { value: 9, asset_id: '9769347360' },
+    currency { value: 9, asset_id: '9769347367' },
+    currency { value: 9, asset_id: '9769347379' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347420' },
+    currency { value: 9, asset_id: '9769347428' },
+    currency { value: 9, asset_id: '9769347448' },
+    currency { value: 9, asset_id: '9769347485' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769297533' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    currency { value: 9, asset_id: '9769288106' },
+    ... 474 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9769961773' },
+    currency { value: 3, asset_id: '9770183694' },
+    currency { value: 3, asset_id: '9770183693' },
+    currency { value: 3, asset_id: '9770183692' },
+    currency { value: 3, asset_id: '9770066057' },
+    currency { value: 3, asset_id: '9770034009' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9770048226' },
+    currency { value: 1, asset_id: '9770048225' },
+    currency { value: 1, asset_id: '9769970746' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769288029' },
+    currency { value: 9, asset_id: '9769347355' },
+    currency { value: 9, asset_id: '9769347360' },
+    currency { value: 9, asset_id: '9769347367' },
+    currency { value: 9, asset_id: '9769347379' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347420' },
+    currency { value: 9, asset_id: '9769347428' },
+    currency { value: 9, asset_id: '9769347448' },
+    currency { value: 9, asset_id: '9769347485' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769297533' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    currency { value: 9, asset_id: '9769288106' },
+    ... 473 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9769961773' },
+    currency { value: 3, asset_id: '9770183694' },
+    currency { value: 3, asset_id: '9770183693' },
+    currency { value: 3, asset_id: '9770183692' },
+    currency { value: 3, asset_id: '9770066057' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9770048226' },
+    currency { value: 1, asset_id: '9770048225' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    1 => {
+      ref: [Array],
+      rec: [Array],
+      scrap: [Array],
+      keys: [],
+      custom: []
+    }
+  }
+}
+indic4
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9770193500' },
+    currency { value: 9, asset_id: '9770193518' },
+    currency { value: 9, asset_id: '9770193512' }
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9764006999' },
+    currency { value: 3, asset_id: '9767231830' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9764024774' },
+    currency { value: 1, asset_id: '9767231991' },
+    currency { value: 1, asset_id: '9767231881' }
+  ],
+  custom: Map { 1 => [ [Object], [Object] ] },
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9770193500' },
+    currency { value: 9, asset_id: '9770193518' },
+    currency { value: 9, asset_id: '9770193512' }
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9764006999' },
+    currency { value: 3, asset_id: '9767231830' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9764024774' },
+    currency { value: 1, asset_id: '9767231991' },
+    currency { value: 1, asset_id: '9767231881' }
+  ],
+  custom: Map { 1 => [ [Object] ] },
+  trades: Map {},
+  trades_setup: Map {
+    1 => { ref: [], rec: [], scrap: [], keys: [], custom: [Array] }
+  }
+}
+indic5
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9770201708',
+      class_id: '8919157',
+      instance_id: '3879535297',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 1
+    }
+  ]
+}
+{
+  ref: [ currency { value: 9, asset_id: '9769347347' } ],
+  rec: [ currency { value: 3, asset_id: '9770034009' } ],
+  scrap: [ currency { value: 1, asset_id: '9769970746' } ],
+  keys: [],
+  custom: []
+}
+https://steamcommunity.com/tradeoffer/new/?partner=412692011&token=uf3bUP3P
+
+NEW ENTRY
+28/01/2021 14:31:40
+Hello
+ym
+indic2
+{
+  ref: [ currency { value: 9, asset_id: '9770193500' } ],
+  rec: [ currency { value: 3, asset_id: '9764006999' } ],
+  scrap: [ currency { value: 1, asset_id: '9767231991' } ],
+  keys: [],
+  custom: []
+}
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9768204704',
+      class_id: '8919157',
+      instance_id: '1440176950',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 0
+    }
+  ]
+}
+https://steamcommunity.com/tradeoffer/new/?partner=241596785&token=ho_XrurA
+Bank {
+  keys: [],
+  ref: [ currency { value: 9, asset_id: '9770193518' } ],
+  rec: [],
+  scrap: [ currency { value: 1, asset_id: '9764024774' } ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    0 => {
+      ref: [Array],
+      rec: [Array],
+      scrap: [Array],
+      keys: [],
+      custom: []
+    }
+  }
+}
+4418942087
+Accepted!
+yooo
+{
+  my_items: {
+    ref: [ [currency] ],
+    rec: [ [currency] ],
+    scrap: [ [currency] ],
+    keys: [],
+    custom: []
+  },
+  their_items: { ref: [], rec: [], scrap: [], keys: [], custom: [ [Object] ] },
+  their_tradeURL: 'https://steamcommunity.com/tradeoffer/new/?partner=241596785&token=ho_XrurA'
+}
+{
+  ref: [ currency { value: 9, asset_id: '9770193500' } ],
+  rec: [ currency { value: 3, asset_id: '9764006999' } ],
+  scrap: [ currency { value: 1, asset_id: '9767231991' } ],
+  keys: [],
+  custom: []
+}
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9768204704',
+      class_id: '8919157',
+      instance_id: '1440176950',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 0
+    }
+  ]
+}
+https://steamcommunity.com/tradeoffer/new/?partner=241596785&token=ho_XrurA
+ARGH: TypeError: Cannot read property 'Symbol(Symbol.toStringTag)' of undefined
+Yay!
+indic3
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769347338' },
+    currency { value: 9, asset_id: '9769347347' },
+    currency { value: 9, asset_id: '9769347355' },
+    currency { value: 9, asset_id: '9769347360' },
+    currency { value: 9, asset_id: '9769347367' },
+    currency { value: 9, asset_id: '9769347379' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347420' },
+    currency { value: 9, asset_id: '9769347428' },
+    currency { value: 9, asset_id: '9769347448' },
+    currency { value: 9, asset_id: '9769347485' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769297533' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    ... 473 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770066057' },
+    currency { value: 3, asset_id: '9770034009' },
+    currency { value: 3, asset_id: '9770183694' },
+    currency { value: 3, asset_id: '9770183693' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9769970746' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9770200762' },
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9770200761' },
+    currency { value: 1, asset_id: '9770200760' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769347338' },
+    currency { value: 9, asset_id: '9769347347' },
+    currency { value: 9, asset_id: '9769347355' },
+    currency { value: 9, asset_id: '9769347360' },
+    currency { value: 9, asset_id: '9769347367' },
+    currency { value: 9, asset_id: '9769347379' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347420' },
+    currency { value: 9, asset_id: '9769347428' },
+    currency { value: 9, asset_id: '9769347448' },
+    currency { value: 9, asset_id: '9769347485' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769297533' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    ... 472 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770066057' },
+    currency { value: 3, asset_id: '9770034009' },
+    currency { value: 3, asset_id: '9770183694' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9769970746' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9770200762' },
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9770200761' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    1 => {
+      ref: [Array],
+      rec: [Array],
+      scrap: [Array],
+      keys: [],
+      custom: []
+    }
+  }
+}
+indic4
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9770193518' },
+    currency { value: 9, asset_id: '9770193500' }
+  ],
+  rec: [ currency { value: 3, asset_id: '9764006999' } ],
+  scrap: [
+    currency { value: 1, asset_id: '9764024774' },
+    currency { value: 1, asset_id: '9767231991' }
+  ],
+  custom: Map { 1 => [ [Object], [Object], [Object] ] },
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9770193518' },
+    currency { value: 9, asset_id: '9770193500' }
+  ],
+  rec: [ currency { value: 3, asset_id: '9764006999' } ],
+  scrap: [
+    currency { value: 1, asset_id: '9764024774' },
+    currency { value: 1, asset_id: '9767231991' }
+  ],
+  custom: Map { 1 => [ [Object], [Object] ] },
+  trades: Map {},
+  trades_setup: Map {
+    1 => { ref: [], rec: [], scrap: [], keys: [], custom: [Array] }
+  }
+}
+indic5
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9770195438',
+      class_id: '8919157',
+      instance_id: '0',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 1
+    }
+  ]
+}
+{
+  ref: [ currency { value: 9, asset_id: '9769347327' } ],
+  rec: [ currency { value: 3, asset_id: '9770183693' } ],
+  scrap: [ currency { value: 1, asset_id: '9770200760' } ],
+  keys: [],
+  custom: []
+}
+https://steamcommunity.com/tradeoffer/new/?partner=412692011&token=uf3bUP3P
+
+NEW ENTRY
+28/01/2021 14:37:31
+Hello
+
+NEW ENTRY
+28/01/2021 14:40:17
+Hello
+indic2
+{
+  ref: [ currency { value: 9, asset_id: '9767016454' } ],
+  rec: [ currency { value: 3, asset_id: '9767262764' } ],
+  scrap: [ currency { value: 1, asset_id: '9767341911' } ],
+  keys: [],
+  custom: []
+}
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9592870907',
+      class_id: '8919157',
+      instance_id: '0',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 0
+    }
+  ]
+}
+https://steamcommunity.com/tradeoffer/new/?partner=1144365329&token=ycMyFZZn
+Bank {
+  keys: [],
+  ref: [],
+  rec: [
+    currency { value: 3, asset_id: '9767259305' },
+    currency { value: 3, asset_id: '9767240177' },
+    currency { value: 3, asset_id: '9767340233' },
+    currency { value: 3, asset_id: '9767340232' },
+    currency { value: 3, asset_id: '9767279272' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9767240160' },
+    currency { value: 1, asset_id: '9767240156' },
+    currency { value: 1, asset_id: '9767259271' },
+    currency { value: 1, asset_id: '9767259250' },
+    currency { value: 1, asset_id: '9767341910' },
+    currency { value: 1, asset_id: '9767341909' },
+    currency { value: 1, asset_id: '9767279282' },
+    currency { value: 1, asset_id: '9767709919' },
+    currency { value: 1, asset_id: '9767709936' },
+    currency { value: 1, asset_id: '9767709935' },
+    currency { value: 1, asset_id: '9767709934' },
+    currency { value: 1, asset_id: '9767709924' },
+    currency { value: 1, asset_id: '9767709923' },
+    currency { value: 1, asset_id: '9767709922' },
+    currency { value: 1, asset_id: '9767709920' },
+    currency { value: 1, asset_id: '9767709918' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    0 => {
+      ref: [Array],
+      rec: [Array],
+      scrap: [Array],
+      keys: [],
+      custom: []
+    }
+  }
+}
+4418949939
+Accepted!
+yooo
+ARGH: TypeError: Cannot read property 'Symbol(Symbol.toStringTag)' of undefined
+Yay!
+indic3
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769347309' },
+    currency { value: 9, asset_id: '9769347314' },
+    currency { value: 9, asset_id: '9769347327' },
+    currency { value: 9, asset_id: '9769347355' },
+    currency { value: 9, asset_id: '9769347360' },
+    currency { value: 9, asset_id: '9769347367' },
+    currency { value: 9, asset_id: '9769347379' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769297520' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    currency { value: 9, asset_id: '9769288106' },
+    currency { value: 9, asset_id: '9769288117' },
+    currency { value: 9, asset_id: '9769288130' },
+    ... 467 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770213049' },
+    currency { value: 3, asset_id: '9770213048' },
+    currency { value: 3, asset_id: '9770183694' },
+    currency { value: 3, asset_id: '9770183693' },
+    currency { value: 3, asset_id: '9770034009' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769970746' },
+    currency { value: 1, asset_id: '9770200762' },
+    currency { value: 1, asset_id: '9770200761' },
+    currency { value: 1, asset_id: '9770200760' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769347309' },
+    currency { value: 9, asset_id: '9769347314' },
+    currency { value: 9, asset_id: '9769347327' },
+    currency { value: 9, asset_id: '9769347355' },
+    currency { value: 9, asset_id: '9769347360' },
+    currency { value: 9, asset_id: '9769347367' },
+    currency { value: 9, asset_id: '9769347379' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769297520' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    currency { value: 9, asset_id: '9769288106' },
+    currency { value: 9, asset_id: '9769288117' },
+    currency { value: 9, asset_id: '9769288130' },
+    ... 466 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770213049' },
+    currency { value: 3, asset_id: '9770213048' },
+    currency { value: 3, asset_id: '9770183694' },
+    currency { value: 3, asset_id: '9770183693' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769970746' },
+    currency { value: 1, asset_id: '9770200762' },
+    currency { value: 1, asset_id: '9770200761' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    1 => {
+      ref: [Array],
+      rec: [Array],
+      scrap: [Array],
+      keys: [],
+      custom: []
+    }
+  }
+}
+indic4
+Bank {
+  keys: [],
+  ref: [ currency { value: 9, asset_id: '9767016454' } ],
+  rec: [
+    currency { value: 3, asset_id: '9767259305' },
+    currency { value: 3, asset_id: '9767240177' },
+    currency { value: 3, asset_id: '9767340233' },
+    currency { value: 3, asset_id: '9767340232' },
+    currency { value: 3, asset_id: '9767279272' },
+    currency { value: 3, asset_id: '9767262764' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9767240160' },
+    currency { value: 1, asset_id: '9767240156' },
+    currency { value: 1, asset_id: '9767259271' },
+    currency { value: 1, asset_id: '9767259250' },
+    currency { value: 1, asset_id: '9767341910' },
+    currency { value: 1, asset_id: '9767341909' },
+    currency { value: 1, asset_id: '9767279282' },
+    currency { value: 1, asset_id: '9767709919' },
+    currency { value: 1, asset_id: '9767709936' },
+    currency { value: 1, asset_id: '9767709935' },
+    currency { value: 1, asset_id: '9767709934' },
+    currency { value: 1, asset_id: '9767709924' },
+    currency { value: 1, asset_id: '9767709923' },
+    currency { value: 1, asset_id: '9767709922' },
+    currency { value: 1, asset_id: '9767709920' },
+    currency { value: 1, asset_id: '9767709918' },
+    currency { value: 1, asset_id: '9767341911' }
+  ],
+  custom: Map { 1 => [ [Object] ] },
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [ currency { value: 9, asset_id: '9767016454' } ],
+  rec: [
+    currency { value: 3, asset_id: '9767259305' },
+    currency { value: 3, asset_id: '9767240177' },
+    currency { value: 3, asset_id: '9767340233' },
+    currency { value: 3, asset_id: '9767340232' },
+    currency { value: 3, asset_id: '9767279272' },
+    currency { value: 3, asset_id: '9767262764' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9767240160' },
+    currency { value: 1, asset_id: '9767240156' },
+    currency { value: 1, asset_id: '9767259271' },
+    currency { value: 1, asset_id: '9767259250' },
+    currency { value: 1, asset_id: '9767341910' },
+    currency { value: 1, asset_id: '9767341909' },
+    currency { value: 1, asset_id: '9767279282' },
+    currency { value: 1, asset_id: '9767709919' },
+    currency { value: 1, asset_id: '9767709936' },
+    currency { value: 1, asset_id: '9767709935' },
+    currency { value: 1, asset_id: '9767709934' },
+    currency { value: 1, asset_id: '9767709924' },
+    currency { value: 1, asset_id: '9767709923' },
+    currency { value: 1, asset_id: '9767709922' },
+    currency { value: 1, asset_id: '9767709920' },
+    currency { value: 1, asset_id: '9767709918' },
+    currency { value: 1, asset_id: '9767341911' }
+  ],
+  custom: Map { 1 => [] },
+  trades: Map {},
+  trades_setup: Map {
+    1 => { ref: [], rec: [], scrap: [], keys: [], custom: [Array] }
+  }
+}
+indic5
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9770234931',
+      class_id: '8919157',
+      instance_id: '0',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 1
+    }
+  ]
+}
+{
+  ref: [ currency { value: 9, asset_id: '9769347302' } ],
+  rec: [ currency { value: 3, asset_id: '9770034009' } ],
+  scrap: [ currency { value: 1, asset_id: '9770200760' } ],
+  keys: [],
+  custom: []
+}
+https://steamcommunity.com/tradeoffer/new/?partner=412692011&token=uf3bUP3P
+
+NEW ENTRY
+28/01/2021 14:42:58
+Hello
+indic2
+{
+  ref: [],
+  rec: [
+    currency { value: 3, asset_id: '9767340232' },
+    currency { value: 3, asset_id: '9767340233' },
+    currency { value: 3, asset_id: '9767259305' },
+    currency { value: 3, asset_id: '9767279272' }
+  ],
+  scrap: [ currency { value: 1, asset_id: '9767709920' } ],
+  keys: [],
+  custom: []
+}
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9745692368',
+      class_id: '8919157',
+      instance_id: '0',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 0
+    }
+  ]
+}
+https://steamcommunity.com/tradeoffer/new/?partner=299468148&token=64DY8yPZ
+Bank {
+  keys: [],
+  ref: [],
+  rec: [ currency { value: 3, asset_id: '9767240177' } ],
+  scrap: [
+    currency { value: 1, asset_id: '9767240156' },
+    currency { value: 1, asset_id: '9767240160' },
+    currency { value: 1, asset_id: '9767259271' },
+    currency { value: 1, asset_id: '9767259250' },
+    currency { value: 1, asset_id: '9767709919' },
+    currency { value: 1, asset_id: '9767709918' },
+    currency { value: 1, asset_id: '9767341910' },
+    currency { value: 1, asset_id: '9767341909' },
+    currency { value: 1, asset_id: '9767279282' },
+    currency { value: 1, asset_id: '9767709923' },
+    currency { value: 1, asset_id: '9767709936' },
+    currency { value: 1, asset_id: '9767709935' },
+    currency { value: 1, asset_id: '9767709934' },
+    currency { value: 1, asset_id: '9767709924' },
+    currency { value: 1, asset_id: '9767709922' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    0 => { ref: [], rec: [Array], scrap: [Array], keys: [], custom: [] }
+  }
+}
+4418952320
+Accepted!
+yooo
+{
+  my_items: {
+    ref: [],
+    rec: [ [currency], [currency], [currency], [currency] ],
+    scrap: [ [currency] ],
+    keys: [],
+    custom: []
+  },
+  their_items: { ref: [], rec: [], scrap: [], keys: [], custom: [ [Object] ] },
+  their_tradeURL: 'https://steamcommunity.com/tradeoffer/new/?partner=299468148&token=64DY8yPZ'
+}
+ARGH: TypeError: Cannot read property 'Symbol(Symbol.toStringTag)' of undefined
+Yay!
+indic3
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769347309' },
+    currency { value: 9, asset_id: '9769347314' },
+    currency { value: 9, asset_id: '9769347327' },
+    currency { value: 9, asset_id: '9769347355' },
+    currency { value: 9, asset_id: '9769347360' },
+    currency { value: 9, asset_id: '9769347367' },
+    currency { value: 9, asset_id: '9769347379' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769297520' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    currency { value: 9, asset_id: '9769288106' },
+    currency { value: 9, asset_id: '9769288117' },
+    currency { value: 9, asset_id: '9769288130' },
+    ... 467 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770213049' },
+    currency { value: 3, asset_id: '9770213048' },
+    currency { value: 3, asset_id: '9770183694' },
+    currency { value: 3, asset_id: '9770183693' },
+    currency { value: 3, asset_id: '9770034009' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769970746' },
+    currency { value: 1, asset_id: '9770200762' },
+    currency { value: 1, asset_id: '9770200761' },
+    currency { value: 1, asset_id: '9770200760' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769347309' },
+    currency { value: 9, asset_id: '9769347314' },
+    currency { value: 9, asset_id: '9769347327' },
+    currency { value: 9, asset_id: '9769347355' },
+    currency { value: 9, asset_id: '9769347360' },
+    currency { value: 9, asset_id: '9769347367' },
+    currency { value: 9, asset_id: '9769347379' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769297520' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    currency { value: 9, asset_id: '9769288106' },
+    currency { value: 9, asset_id: '9769288117' },
+    currency { value: 9, asset_id: '9769288130' },
+    ... 466 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770213049' },
+    currency { value: 3, asset_id: '9770213048' },
+    currency { value: 3, asset_id: '9770183694' },
+    currency { value: 3, asset_id: '9770183693' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769970746' },
+    currency { value: 1, asset_id: '9770200762' },
+    currency { value: 1, asset_id: '9770200761' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    1 => {
+      ref: [Array],
+      rec: [Array],
+      scrap: [Array],
+      keys: [],
+      custom: []
+    }
+  }
+}
+indic4
+Bank {
+  keys: [],
+  ref: [],
+  rec: [
+    currency { value: 3, asset_id: '9767240177' },
+    currency { value: 3, asset_id: '9767340232' },
+    currency { value: 3, asset_id: '9767340233' },
+    currency { value: 3, asset_id: '9767259305' },
+    currency { value: 3, asset_id: '9767279272' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9767240156' },
+    currency { value: 1, asset_id: '9767240160' },
+    currency { value: 1, asset_id: '9767259271' },
+    currency { value: 1, asset_id: '9767259250' },
+    currency { value: 1, asset_id: '9767709919' },
+    currency { value: 1, asset_id: '9767709918' },
+    currency { value: 1, asset_id: '9767341910' },
+    currency { value: 1, asset_id: '9767341909' },
+    currency { value: 1, asset_id: '9767279282' },
+    currency { value: 1, asset_id: '9767709923' },
+    currency { value: 1, asset_id: '9767709936' },
+    currency { value: 1, asset_id: '9767709935' },
+    currency { value: 1, asset_id: '9767709934' },
+    currency { value: 1, asset_id: '9767709924' },
+    currency { value: 1, asset_id: '9767709922' },
+    currency { value: 1, asset_id: '9767709920' }
+  ],
+  custom: Map { 1 => [ [Object], [Object] ] },
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [],
+  rec: [
+    currency { value: 3, asset_id: '9767240177' },
+    currency { value: 3, asset_id: '9767340232' },
+    currency { value: 3, asset_id: '9767340233' },
+    currency { value: 3, asset_id: '9767259305' },
+    currency { value: 3, asset_id: '9767279272' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9767240156' },
+    currency { value: 1, asset_id: '9767240160' },
+    currency { value: 1, asset_id: '9767259271' },
+    currency { value: 1, asset_id: '9767259250' },
+    currency { value: 1, asset_id: '9767709919' },
+    currency { value: 1, asset_id: '9767709918' },
+    currency { value: 1, asset_id: '9767341910' },
+    currency { value: 1, asset_id: '9767341909' },
+    currency { value: 1, asset_id: '9767279282' },
+    currency { value: 1, asset_id: '9767709923' },
+    currency { value: 1, asset_id: '9767709936' },
+    currency { value: 1, asset_id: '9767709935' },
+    currency { value: 1, asset_id: '9767709934' },
+    currency { value: 1, asset_id: '9767709924' },
+    currency { value: 1, asset_id: '9767709922' },
+    currency { value: 1, asset_id: '9767709920' }
+  ],
+  custom: Map { 1 => [ [Object] ] },
+  trades: Map {},
+  trades_setup: Map {
+    1 => { ref: [], rec: [], scrap: [], keys: [], custom: [Array] }
+  }
+}
+indic5
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9770240795',
+      class_id: '8919157',
+      instance_id: '0',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 1
+    }
+  ]
+}
+{
+  ref: [ currency { value: 9, asset_id: '9769347302' } ],
+  rec: [ currency { value: 3, asset_id: '9770034009' } ],
+  scrap: [ currency { value: 1, asset_id: '9770200760' } ],
+  keys: [],
+  custom: []
+}
+https://steamcommunity.com/tradeoffer/new/?partner=412692011&token=uf3bUP3P
+
+NEW ENTRY
+28/01/2021 14:45:57
+Hello
+ym
+indic2
+{
+  ref: [],
+  rec: [ currency { value: 3, asset_id: '9767240177' } ],
+  scrap: [
+    currency { value: 1, asset_id: '9767709935' },
+    currency { value: 1, asset_id: '9767709936' },
+    currency { value: 1, asset_id: '9767341910' },
+    currency { value: 1, asset_id: '9767709918' },
+    currency { value: 1, asset_id: '9767709919' },
+    currency { value: 1, asset_id: '9767709922' },
+    currency { value: 1, asset_id: '9767709923' },
+    currency { value: 1, asset_id: '9767709924' },
+    currency { value: 1, asset_id: '9767709934' },
+    currency { value: 1, asset_id: '9767259250' }
+  ],
+  keys: [],
+  custom: []
+}
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9720144304',
+      class_id: '8919157',
+      instance_id: '4122087327',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 0
+    }
+  ]
+}
+https://steamcommunity.com/tradeoffer/new/?partner=1026135861&token=T7ToM68K
+Bank {
+  keys: [],
+  ref: [],
+  rec: [],
+  scrap: [
+    currency { value: 1, asset_id: '9767240156' },
+    currency { value: 1, asset_id: '9767240160' },
+    currency { value: 1, asset_id: '9767341909' },
+    currency { value: 1, asset_id: '9767279282' },
+    currency { value: 1, asset_id: '9767259271' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    0 => { ref: [], rec: [Array], scrap: [Array], keys: [], custom: [] }
+  }
+}
+4418954944
+Accepted!
+Yay!
+indic3
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769347309' },
+    currency { value: 9, asset_id: '9769347314' },
+    currency { value: 9, asset_id: '9769347327' },
+    currency { value: 9, asset_id: '9769347355' },
+    currency { value: 9, asset_id: '9769347360' },
+    currency { value: 9, asset_id: '9769347367' },
+    currency { value: 9, asset_id: '9769347379' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769297520' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    currency { value: 9, asset_id: '9769288106' },
+    currency { value: 9, asset_id: '9769288117' },
+    currency { value: 9, asset_id: '9769288130' },
+    ... 467 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770213049' },
+    currency { value: 3, asset_id: '9770213048' },
+    currency { value: 3, asset_id: '9770183694' },
+    currency { value: 3, asset_id: '9770183693' },
+    currency { value: 3, asset_id: '9770034009' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769970746' },
+    currency { value: 1, asset_id: '9770200762' },
+    currency { value: 1, asset_id: '9770200761' },
+    currency { value: 1, asset_id: '9770200760' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [
+    currency { value: 9, asset_id: '9769287848' },
+    currency { value: 9, asset_id: '9769347309' },
+    currency { value: 9, asset_id: '9769347314' },
+    currency { value: 9, asset_id: '9769347327' },
+    currency { value: 9, asset_id: '9769347355' },
+    currency { value: 9, asset_id: '9769347360' },
+    currency { value: 9, asset_id: '9769347367' },
+    currency { value: 9, asset_id: '9769347379' },
+    currency { value: 9, asset_id: '9769347383' },
+    currency { value: 9, asset_id: '9769347398' },
+    currency { value: 9, asset_id: '9769347502' },
+    currency { value: 9, asset_id: '9769347702' },
+    currency { value: 9, asset_id: '9769347708' },
+    currency { value: 9, asset_id: '9769347733' },
+    currency { value: 9, asset_id: '9769347778' },
+    currency { value: 9, asset_id: '9769347794' },
+    currency { value: 9, asset_id: '9769347869' },
+    currency { value: 9, asset_id: '9769347877' },
+    currency { value: 9, asset_id: '9769347884' },
+    currency { value: 9, asset_id: '9769348507' },
+    currency { value: 9, asset_id: '9769348512' },
+    currency { value: 9, asset_id: '9769348528' },
+    currency { value: 9, asset_id: '9769348538' },
+    currency { value: 9, asset_id: '9769348543' },
+    currency { value: 9, asset_id: '9769348589' },
+    currency { value: 9, asset_id: '9769348612' },
+    currency { value: 9, asset_id: '9769348661' },
+    currency { value: 9, asset_id: '9769348685' },
+    currency { value: 9, asset_id: '9769348754' },
+    currency { value: 9, asset_id: '9769348767' },
+    currency { value: 9, asset_id: '9769348784' },
+    currency { value: 9, asset_id: '9769348797' },
+    currency { value: 9, asset_id: '9769348843' },
+    currency { value: 9, asset_id: '9769348970' },
+    currency { value: 9, asset_id: '9769349013' },
+    currency { value: 9, asset_id: '9769355790' },
+    currency { value: 9, asset_id: '9769355825' },
+    currency { value: 9, asset_id: '9769355833' },
+    currency { value: 9, asset_id: '9769355864' },
+    currency { value: 9, asset_id: '9769355874' },
+    currency { value: 9, asset_id: '9769355899' },
+    currency { value: 9, asset_id: '9769355908' },
+    currency { value: 9, asset_id: '9769355921' },
+    currency { value: 9, asset_id: '9769355953' },
+    currency { value: 9, asset_id: '9769355987' },
+    currency { value: 9, asset_id: '9769355999' },
+    currency { value: 9, asset_id: '9769356020' },
+    currency { value: 9, asset_id: '9769356034' },
+    currency { value: 9, asset_id: '9769356052' },
+    currency { value: 9, asset_id: '9769356088' },
+    currency { value: 9, asset_id: '9769356135' },
+    currency { value: 9, asset_id: '9769356146' },
+    currency { value: 9, asset_id: '9769356192' },
+    currency { value: 9, asset_id: '9769356201' },
+    currency { value: 9, asset_id: '9769356210' },
+    currency { value: 9, asset_id: '9769356221' },
+    currency { value: 9, asset_id: '9769356245' },
+    currency { value: 9, asset_id: '9769356255' },
+    currency { value: 9, asset_id: '9769356266' },
+    currency { value: 9, asset_id: '9769356283' },
+    currency { value: 9, asset_id: '9769356297' },
+    currency { value: 9, asset_id: '9769356303' },
+    currency { value: 9, asset_id: '9769356310' },
+    currency { value: 9, asset_id: '9769356322' },
+    currency { value: 9, asset_id: '9769356332' },
+    currency { value: 9, asset_id: '9769356349' },
+    currency { value: 9, asset_id: '9769356355' },
+    currency { value: 9, asset_id: '9769356362' },
+    currency { value: 9, asset_id: '9769356372' },
+    currency { value: 9, asset_id: '9769784458' },
+    currency { value: 9, asset_id: '9769828675' },
+    currency { value: 9, asset_id: '9769287475' },
+    currency { value: 9, asset_id: '9769287495' },
+    currency { value: 9, asset_id: '9769287506' },
+    currency { value: 9, asset_id: '9769287513' },
+    currency { value: 9, asset_id: '9769287532' },
+    currency { value: 9, asset_id: '9769287551' },
+    currency { value: 9, asset_id: '9769287572' },
+    currency { value: 9, asset_id: '9769287584' },
+    currency { value: 9, asset_id: '9769287594' },
+    currency { value: 9, asset_id: '9769287605' },
+    currency { value: 9, asset_id: '9769287616' },
+    currency { value: 9, asset_id: '9769287630' },
+    currency { value: 9, asset_id: '9769287647' },
+    currency { value: 9, asset_id: '9769287659' },
+    currency { value: 9, asset_id: '9769287685' },
+    currency { value: 9, asset_id: '9769287700' },
+    currency { value: 9, asset_id: '9769287732' },
+    currency { value: 9, asset_id: '9769287765' },
+    currency { value: 9, asset_id: '9769287784' },
+    currency { value: 9, asset_id: '9769287807' },
+    currency { value: 9, asset_id: '9769287825' },
+    currency { value: 9, asset_id: '9769297520' },
+    currency { value: 9, asset_id: '9769288047' },
+    currency { value: 9, asset_id: '9769288062' },
+    currency { value: 9, asset_id: '9769288076' },
+    currency { value: 9, asset_id: '9769288093' },
+    currency { value: 9, asset_id: '9769288106' },
+    currency { value: 9, asset_id: '9769288117' },
+    currency { value: 9, asset_id: '9769288130' },
+    ... 466 more items
+  ],
+  rec: [
+    currency { value: 3, asset_id: '9770213049' },
+    currency { value: 3, asset_id: '9770213048' },
+    currency { value: 3, asset_id: '9770183694' },
+    currency { value: 3, asset_id: '9770183693' }
+  ],
+  scrap: [
+    currency { value: 1, asset_id: '9769961803' },
+    currency { value: 1, asset_id: '9769970747' },
+    currency { value: 1, asset_id: '9769970746' },
+    currency { value: 1, asset_id: '9770200762' },
+    currency { value: 1, asset_id: '9770200761' }
+  ],
+  custom: Map {},
+  trades: Map {},
+  trades_setup: Map {
+    1 => {
+      ref: [Array],
+      rec: [Array],
+      scrap: [Array],
+      keys: [],
+      custom: []
+    }
+  }
+}
+indic4
+Bank {
+  keys: [],
+  ref: [],
+  rec: [ currency { value: 3, asset_id: '9767240177' } ],
+  scrap: [
+    currency { value: 1, asset_id: '9767240156' },
+    currency { value: 1, asset_id: '9767240160' },
+    currency { value: 1, asset_id: '9767341909' },
+    currency { value: 1, asset_id: '9767279282' },
+    currency { value: 1, asset_id: '9767259271' },
+    currency { value: 1, asset_id: '9767709935' },
+    currency { value: 1, asset_id: '9767709936' },
+    currency { value: 1, asset_id: '9767341910' },
+    currency { value: 1, asset_id: '9767709918' },
+    currency { value: 1, asset_id: '9767709919' },
+    currency { value: 1, asset_id: '9767709922' },
+    currency { value: 1, asset_id: '9767709923' },
+    currency { value: 1, asset_id: '9767709924' },
+    currency { value: 1, asset_id: '9767709934' },
+    currency { value: 1, asset_id: '9767259250' }
+  ],
+  custom: Map { 1 => [ [Object], [Object], [Object] ] },
+  trades: Map {},
+  trades_setup: Map {}
+}
+Bank {
+  keys: [],
+  ref: [],
+  rec: [ currency { value: 3, asset_id: '9767240177' } ],
+  scrap: [
+    currency { value: 1, asset_id: '9767240156' },
+    currency { value: 1, asset_id: '9767240160' },
+    currency { value: 1, asset_id: '9767341909' },
+    currency { value: 1, asset_id: '9767279282' },
+    currency { value: 1, asset_id: '9767259271' },
+    currency { value: 1, asset_id: '9767709935' },
+    currency { value: 1, asset_id: '9767709936' },
+    currency { value: 1, asset_id: '9767341910' },
+    currency { value: 1, asset_id: '9767709918' },
+    currency { value: 1, asset_id: '9767709919' },
+    currency { value: 1, asset_id: '9767709922' },
+    currency { value: 1, asset_id: '9767709923' },
+    currency { value: 1, asset_id: '9767709924' },
+    currency { value: 1, asset_id: '9767709934' },
+    currency { value: 1, asset_id: '9767259250' }
+  ],
+  custom: Map { 1 => [ [Object], [Object] ] },
+  trades: Map {},
+  trades_setup: Map {
+    1 => { ref: [], rec: [], scrap: [], keys: [], custom: [Array] }
+  }
+}
+indic5
+{
+  ref: [],
+  rec: [],
+  scrap: [],
+  keys: [],
+  custom: [
+    {
+      asset_id: '9770248830',
+      class_id: '8919157',
+      instance_id: '4122087327',
+      name: 'The Hermes',
+      constructedName: 'The Hermes',
+      custom_id: 1
+    }
+  ]
+}
+{
+  ref: [ currency { value: 9, asset_id: '9769347302' } ],
+  rec: [ currency { value: 3, asset_id: '9770034009' } ],
+  scrap: [ currency { value: 1, asset_id: '9770200760' } ],
+  keys: [],
+  custom: []
+}
+https://steamcommunity.com/tradeoffer/new/?partner=412692011&token=uf3bUP3P
+yooo
+{
+  my_items: { ref: [], rec: [], scrap: [], keys: [], custom: [ [Object] ] },
+  their_items: {
+    ref: [ [currency] ],
+    rec: [ [currency] ],
+    scrap: [ [currency] ],
+    keys: [],
+    custom: []
+  },
+  their_tradeURL: 'https://steamcommunity.com/tradeoffer/new/?partner=412692011&token=uf3bUP3P'
+}
+banger clanger
+4418955304
+TWICE Accepted!

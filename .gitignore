@@ -1,0 +1,9 @@
+node_modules/
+t/
+*.code-workspace
+package-lock.json
+bp/
+metal\ copy.js
+steamuserlogin\ copy.js
+trade\ copy.js
+steamuserlogin_info.txt
